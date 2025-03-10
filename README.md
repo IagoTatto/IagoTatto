@@ -7,6 +7,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoTatto)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoTatto&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=IagoTatto)
