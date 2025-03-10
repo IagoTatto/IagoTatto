@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://discord.com/channels/@me/1127332686550270033/1348761102816772237">
 
 ![](https://komarev.com/ghpvc/?username=IagoTatto)
 
