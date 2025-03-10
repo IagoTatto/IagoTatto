@@ -1,3 +1,3 @@
  Hi there 👋
 
-gh repo clone antonkomarev/github-profile-views-counter
+https://github.com/antonkomarev/github-profile-views-counter.git
